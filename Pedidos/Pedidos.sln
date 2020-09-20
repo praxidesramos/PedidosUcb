@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos", "Pedidos.csproj", "{FF26CF43-237E-4034-B7E9-7C8A58F9B44F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F5DA11E2-9875-4C18-8447-D574364D3A8F}"
+	ProjectSection(SolutionItems) = preProject
+		RafaelRocha.txt = RafaelRocha.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
